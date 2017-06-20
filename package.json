@@ -1,0 +1,11 @@
+{
+  "name": "urbanbot",
+  "version": "0.0.1",
+  "description": "urbanbot word to get a definition",
+  "main": "urbanbot.js",
+  "dependencies": {
+    "slack-client": "*",
+    "underscore": "*",
+    "urban": "*"
+  }
+}
